@@ -1,0 +1,21 @@
+.parentContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#searchBar {
+    margin-left: 5.5em;
+    max-width: 200px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    border: solid 2px black;
+    color: black;
+}
+
+#headings {
+    font-weight: 800;
+    background-color: #f1f4ff;
+}
